@@ -1,3 +1,13 @@
+![Screenshot (23818)](https://github.com/harshrajbind2024/studynotion-edtech/assets/121737517/50ab0e46-c6b1-436b-8840-1982116c3272)
+![Screenshot (23825)](https://github.com/harshrajbind2024/studynotion-edtech/assets/121737517/82332fcc-dccf-4180-8918-6bb3f8f2a6cd)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
